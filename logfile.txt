@@ -1,0 +1,10 @@
+osmium2shape version osmium2shape-1.0
+Memory used for node coordinates storage (approximate):
+  for positive IDs: 243 MiB
+  for negative IDs: 16026 MiB
+Ignoring illegal geometry for way 189993456.
+Ignoring illegal geometry for way 210405106.
+Ignoring illegal geometry for way 422794201.
+error building way geometry for way 754589883: must at least contain two nodes
+Ignoring illegal geometry for way 754589883.
+Ignoring illegal geometry for way 755941432.
